@@ -1,0 +1,127 @@
+@media only screen and (max-width: 767px){
+    .navbar-brand img{
+        width:125px;
+        height:auto;
+    }
+    .navbar .btn-navbar{
+        padding:5px 15px;
+    }
+    .hero-section h1, .heading, .trusted-section h2, .sec-title h2, .rental-section h2, .section-title, .cta-box h3{
+        font-size:1.7rem;
+    }
+    .hero-overlay{
+        padding-top:45px;
+    }
+    .fs-5{
+        font-size:1.1rem!important;
+    }
+    ol, ul{
+        padding-left:1.5rem;
+    }
+    .form-container{
+        padding:15px;
+    }
+    .hero-section{
+        padding:50px 0 0 0;
+    }
+    .bg-shape{
+        top: -17px;
+        left: -12px;
+    }
+    section, .about-section, .rental-section, .features-section, .spaceSection{
+        padding:50px 0;
+    }
+    .list-style-one li{
+        padding-left:30px;
+    }
+    .image-column .inner-column{
+        padding-left:35px;
+    }
+    .leftBg:before{
+        display:none;
+    }
+    .leftBg h3{
+        line-height:inherit;
+    }
+    .leftManagement ul li:before{
+        width:30px;
+        height:30px;
+    }
+    .leftManagement ul li{
+        padding-left:38px;
+    }
+    .content-wrapper{
+        width:100%;
+        padding:30px;
+        padding-bottom:0;
+    }
+    .content-wrapper p{
+        margin-bottom:0;
+    }
+    .leftService a.button{
+        margin-bottom:20px;
+    }
+    .itemServices{
+        margin:5px 0;
+    }
+    .sub_heading{
+        font-size:1.7rem;
+    }
+    .leftWhy img{
+        max-width:100%;
+    }
+    .cta-section{
+        padding:0;
+    }
+    .cta-box{
+        padding:50px 20px;
+        border-radius:0;
+    }
+    .swiper-slide{
+        padding:0 !important;
+    }
+    .innerItem{
+        box-shadow:none !important;
+        padding:30px;
+    }
+    .swiper-button-next,
+    .swiper-button-prev {
+        display: none !important;
+     }
+     .leftCity p, .bgCallAction p{
+        line-height: 33px;
+     }
+     .rightCity{
+         margin-top:20px;
+     }
+     .itemChoice{
+         padding-bottom:0
+     }
+     .iconCols{
+         width:40px;
+     }
+     .itemCols{
+         margin-bottom:15px;
+         padding-bottom:15px;
+         border-bottom:1px solid #e0e0e0;
+     }
+     .smallSizeImg img{
+         width:80px !important;
+     }
+     .mobileOption{
+         display:none;
+     }
+     .btn-box{
+         text-align:center;
+     }
+     .inheritPosition{
+         position:inherit;
+         margin:0 auto;
+         transform:translateX(0);
+     }
+     .Footer-section{
+        padding-bottom: 110px;
+     }
+     
+     
+}
